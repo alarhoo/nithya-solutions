@@ -485,9 +485,10 @@ function App() {
               </div>
               <div className='mb-6 lg:mb-0'>
                 <p className='text-gray-500 text-lg'>
-                  Welcome to Nithya Tech Solutions, a leading provider of innovative and comprehensive consulting services. Our
-                  team of experts has extensive experience in [specific industry or industries you specialize in], and
-                  we are dedicated to helping our clients achieve their goals and stay ahead of the competition.
+                  Welcome to Nithya Tech Solutions, a leading provider of innovative and comprehensive consulting
+                  services. Our team of experts has extensive experience in [specific industry or industries you
+                  specialize in], and we are dedicated to helping our clients achieve their goals and stay ahead of the
+                  competition.
                 </p>
                 <p className='text-gray-500 text-lg'>
                   At Nithya Tech Solutions, we understand the challenges facing businesses in today's fast-paced and
@@ -506,9 +507,9 @@ function App() {
                   meeting our clients' expectations, but exceeding them.
                 </p>
                 <p className='text-gray-500 text-lg'>
-                  At Nithya Tech Solutions, we are dedicated to helping our clients achieve their goals and stay ahead of the
-                  competition. If you're ready to take your business to the next level, we're ready to help. Contact us
-                  today to learn more about how we can support your success.
+                  At Nithya Tech Solutions, we are dedicated to helping our clients achieve their goals and stay ahead
+                  of the competition. If you're ready to take your business to the next level, we're ready to help.
+                  Contact us today to learn more about how we can support your success.
                 </p>
               </div>
             </div>
@@ -1098,8 +1099,16 @@ function App() {
                         </div>
                         <div className='grow ml-6'>
                           <p className='font-bold mb-1'>Contact Information</p>
-                          <p className='text-gray-500'>nithyanitu76@gmail.com</p>
-                          <p className='text-gray-500'>+91 78929 41648</p>
+                          <p>
+                            <a className='text-gray-500' href='mailto:nithyanitu76@gmail.com'>
+                              nithyanitu76@gmail.com
+                            </a>
+                          </p>
+                          <p>
+                            <a className='text-gray-500' href='tel:+91 78929 41648'>
+                              +91 78929 41648
+                            </a>
+                          </p>
                         </div>
                       </div>
                     </div>
@@ -1126,7 +1135,7 @@ function App() {
                         </div>
                         <div className='grow ml-6'>
                           <p className='font-bold mb-1'>Press</p>
-                          <p className='text-gray-500'>press@example.com</p>
+                          <p className='text-gray-500'>press@nithyatech.com</p>
                           <p className='text-gray-500'>+1 234-567-89</p>
                         </div>
                       </div>
@@ -1154,7 +1163,7 @@ function App() {
                         </div>
                         <div className='grow ml-6'>
                           <p className='font-bold mb-1'>Bug report</p>
-                          <p className='text-gray-500'>bugs@example.com</p>
+                          <p className='text-gray-500'>bugs@nithyatech.com</p>
                           <p className='text-gray-500'>+1 234-567-89</p>
                         </div>
                       </div>
@@ -1275,8 +1284,8 @@ function App() {
         </div>
 
         <div className='text-center text-gray-700 p-4'>
-          © 2023 Copyright:
-          <a className='text-gray-800' href='https://tailwind-elements.com/'>
+          © 2023 Copyright {' '}
+          <a className='text-gray-800' href='https://alarhoo.github.io/nithya-solutions/'>
             Nithya Technologies
           </a>
         </div>
