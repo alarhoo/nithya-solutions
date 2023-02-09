@@ -1,0 +1,38 @@
+/* main {
+  max-width: 1440px;
+  margin: 0 auto;
+} */
+
+/* #hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+  flex-direction: column;
+}
+#hero .left {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin: auto 30px;
+}
+#hero .right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.flex {
+  display: flex;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .hidden-sm {
+    display: none;
+  }
+} */
