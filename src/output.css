@@ -2682,6 +2682,10 @@ button:focus-visible {
 }
 
 @media (min-width: 768px) {
+  .md\:block {
+    display: block;
+  }
+
   .md\:w-6\/12 {
     width: 50%;
   }

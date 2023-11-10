@@ -467,7 +467,7 @@ function App() {
                     Learn more
                   </a>
                 </div>
-                <div className='mb-12 lg:mb-0'>
+                <div className='mb-12 lg:mb-0 hiddens md:block'>
                   <img src='/assets/undraw_content_team_re_6rlg.svg' className='w-full rounded-lg shadow-lgs' alt='' />
                 </div>
               </div>
